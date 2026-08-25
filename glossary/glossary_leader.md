@@ -11,12 +11,14 @@ last_updated: 2026-08-20
 「ショックリーダー」とも呼ばれる。
 
 ## 補足
-- 使われる場面・具体例:
-  - キャストや魚が掛かった瞬間の衝撃を、ナイロンやフロロカーボンの持つ「伸び」で吸収し、ラインの破断を防ぐ役割がある。
-  - PEラインは根ズレ・歯ズレに弱く傷がつくと切れやすいため、道糸とルアー・仕掛けの間にリーダーを結んで保護する目的でも使われる。
+- キャストや魚が掛かった瞬間の衝撃を、ナイロンやフロロカーボンの持つ「伸び」で吸収し、ラインの破断を防ぐ役割がある。
+- PEラインは根ズレ・歯ズレに弱く傷がつくと切れやすいため、道糸とルアー・仕掛けの間にリーダーを結んで保護する目的でも使われる。
 
 ## 関連用語
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_cast.md](glossary_cast.md)(キャスト)
+- [glossary_line_types.md](glossary_line_types.md)(PEライン)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
 
 ## 出典
 - [リーダー（りーだー）｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=189)(確認日: 2026-08-20)

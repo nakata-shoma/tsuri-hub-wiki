@@ -10,11 +10,11 @@ last_updated: 2026-08-21
 本命とは、その釣行で釣り人があらかじめ狙っている、目的の魚種のこと。
 
 ## 補足
-- 使われる場面・具体例:
-  - 本命以外の魚が釣れた場合は「外道」と呼ばれる。
+- 本命以外の魚が釣れた場合は「外道」と呼ばれる。
 
 ## 関連用語
 - [glossary_gedou.md](glossary_gedou.md)(外道)
+- [glossary_esatori.md](glossary_esatori.md)(エサ取り)
 
 ## 出典
 - [一般社会では通用しない『釣り用語』７選 釣り人ならば常識？｜TSURINEWS](https://tsurinews.jp/43176/)(確認日: 2026-08-21)
