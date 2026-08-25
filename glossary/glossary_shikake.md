@@ -1,5 +1,5 @@
 ---
-status: 下書き完了
+status: 完了
 category: glossary
 last_updated: 2026-08-20
 ---
@@ -7,7 +7,7 @@ last_updated: 2026-08-20
 # 仕掛け
 
 ## 意味
-仕掛けとは、魚を釣るために針・オモリ・サルカン・ウキなどのパーツを組み合わせたもので、道糸から先の部分全体を指します。
+仕掛けとは、魚を釣るために針・オモリ・サルカン・ウキなどのパーツを組み合わせたもので、道糸から先の部分全体を指す。
 
 ## 補足
 - 使われる場面・具体例:
@@ -16,6 +16,7 @@ last_updated: 2026-08-20
 
 ## 関連用語
 - [glossary_leader.md](glossary_leader.md)(リーダー)
+- [glossary_tana.md](glossary_tana.md)(タナ)
 
 ## 出典
 - [しかけ 仕掛け｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=229)(確認日: 2026-08-20)
