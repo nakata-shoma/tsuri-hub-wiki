@@ -1,5 +1,5 @@
 ---
-status: 下書き完了
+status: 完了
 category: glossary
 last_updated: 2026-08-21
 ---
@@ -7,16 +7,17 @@ last_updated: 2026-08-21
 # ロックフィッシュ
 
 ## 意味
-ロックフィッシュとは、岩礁やテトラポッドなど「根」を棲みかとし、遠くへ移動しない魚の総称です。
+ロックフィッシュとは、岩礁やテトラポッドなど「根」を棲みかとし、遠くへ移動しない魚の総称である。
 
 ## 補足
 - 使われる場面・具体例:
   - カサゴ、メバル、ソイ、アイナメ、ハタなどが代表的なロックフィッシュとされる。
-  - [居着き](glossary_itsuki.md)の性質を持つ[根魚](glossary_itsuki.md)とほぼ同義で使われることが多い。
+  - [居着き](glossary_itsuki.md)の性質を持つ[根魚](glossary_nezakana.md)と同義で使われることが多い。
   - 磯や堤防の消波ブロックなど、隠れ家となる障害物が多い場所が釣り場となる。
 
 ## 関連用語
-- [glossary_itsuki.md](glossary_itsuki.md)(居着き・根魚)
+- [glossary_itsuki.md](glossary_itsuki.md)(居着き)
+- [glossary_nezakana.md](glossary_nezakana.md)(根魚)
 - [glossary_tetora.md](glossary_tetora.md)(テトラポッド)
 
 ## 出典
