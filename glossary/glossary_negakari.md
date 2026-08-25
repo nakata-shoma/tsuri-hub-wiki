@@ -15,7 +15,9 @@ last_updated: 2026-08-20
 - 予防策として、根掛かりしやすい地形では根掛かりしにくい形状のルアーを使うといった工夫がある。
 
 ## 関連用語
-- (今後、天秤・オモリなど関連語を追加予定)
+- [glossary_omori.md](glossary_omori.md)(オモリ)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_tenbin.md](glossary_tenbin.md)(天秤)
 
 ## 出典
 - [釣り用語の「根がかり」とは？初心者泣かせの地球を釣るトラブルの正体｜レジャーフィッシングガイド](https://www.e-leisure.jp/basics/detail/1722/)(確認日: 2026-08-20)

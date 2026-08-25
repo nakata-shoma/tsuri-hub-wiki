@@ -18,6 +18,9 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_jighead.md](glossary_jighead.md)(ジグヘッド)
 - [glossary_jig.md](glossary_jig.md)(ジグ)
+- [glossary_nezakana.md](glossary_nezakana.md)(根魚)
+- [glossary_hit.md](glossary_hit.md)(ヒット)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [ワーム（ソフトルアー）は何種類ある！？おすすめ43選と使い方まとめ｜TSURI HACK](https://tsurihack.com/195)(確認日: 2026-08-21)

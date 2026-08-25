@@ -15,6 +15,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_guide.md](glossary_guide.md)(ガイド)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [ロッド（釣り竿）とは？初心者向けに種類や選び方、持ち方を解説｜SHIMANO シマノ](https://fish.shimano.com/ja-JP/content/beginners/fishingtackle/rod/index.html)(確認日: 2026-08-21)

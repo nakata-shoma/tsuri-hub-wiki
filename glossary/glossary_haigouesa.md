@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_komase.md](glossary_komase.md)(コマセ)
 - [glossary_okiami.md](glossary_okiami.md)(オキアミ)
+- [glossary_amiebi.md](glossary_amiebi.md)(アミエビ)
 
 ## 出典
 - [代表的なコマセ3種類の特徴・使い方・ターゲットを解説｜TSURINEWS](https://tsurinews.jp/14601/)(確認日: 2026-08-21)

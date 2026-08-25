@@ -18,6 +18,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_drag.md](glossary_drag.md)(ドラグ)
 - [glossary_cast.md](glossary_cast.md)(キャスト)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
 
 ## 出典
 - [ベイトリールとスピニングリール、何が違うの？釣り初心者にもわかりやすく解説！｜リサイクルマート](https://www.recyclemart.jp/shop/chichibu/info/1083103/)(確認日: 2026-08-21)

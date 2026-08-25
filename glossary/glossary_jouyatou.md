@@ -17,6 +17,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_baitfish.md](glossary_baitfish.md)(ベイトフィッシュ)
+- [glossary_teibo.md](glossary_teibo.md)(堤防)
 
 ## 出典
 - [夜釣りで常夜灯は外せない！多種多様な魚が集まる理由とは？｜TSURI HACK](https://tsurihack.com/5454)(確認日: 2026-08-21)

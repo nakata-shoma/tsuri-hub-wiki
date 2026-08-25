@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_structure.md](glossary_structure.md)(ストラクチャー)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [環境省_せとうちネット：藻場とは](https://www.env.go.jp/water/heisa/heisa_net/setouchiNet/seto/g1/g1chapter3/mobahigata/mobatowa/index.html)(確認日: 2026-08-21)

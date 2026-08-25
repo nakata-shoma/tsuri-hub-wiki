@@ -16,6 +16,8 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_shiome.md](glossary_shiome.md)(潮目)
 - [glossary_shiomawari.md](glossary_shiomawari.md)(潮回り)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [「潮」の話、ついていけてる？二枚潮や潮目などその仕組みや意味を徹底解説！｜Fishing Japan](https://fishingjapan.jp/fishing/2541)(確認日: 2026-08-21)

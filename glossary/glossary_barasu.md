@@ -16,6 +16,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_hit.md](glossary_hit.md)(ヒット)
 - [glossary_awase.md](glossary_awase.md)(合わせ)
+- [glossary_harisu.md](glossary_harisu.md)(ハリス)
 
 ## 出典
 - [バラシ（ばらし）｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=384)(確認日: 2026-08-21)

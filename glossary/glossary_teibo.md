@@ -15,6 +15,11 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_tetora.md](glossary_tetora.md)(テトラポッド)
+- [glossary_jouyatou.md](glossary_jouyatou.md)(常夜灯)
+- [glossary_kiwa.md](glossary_kiwa.md)(際)
+- [glossary_rockfish.md](glossary_rockfish.md)(ロックフィッシュ)
+- [glossary_structure.md](glossary_structure.md)(ストラクチャー)
+- [glossary_tamoami.md](glossary_tamoami.md)(タモ網)
 
 ## 出典
 - [【釣り初心者必見】堤防・波止・防波堤の違いとは？知らないと恥ずかしい海釣りの基礎知識｜釣ったろう](https://tsuttarou.net/archives/230088)(確認日: 2026-08-21)

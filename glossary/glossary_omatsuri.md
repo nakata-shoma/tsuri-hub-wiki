@@ -15,7 +15,8 @@ last_updated: 2026-08-21
 - 混雑した釣り場では起こりやすいトラブルのため、周囲との距離や投げる方向に注意することが対策とされる。
 
 ## 関連用語
-- (今後、キャスト・マナーに関する用語を追加予定)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [おまつり お祭り｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=102)(確認日: 2026-08-21)

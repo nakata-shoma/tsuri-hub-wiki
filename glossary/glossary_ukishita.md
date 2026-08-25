@@ -19,6 +19,9 @@ last_updated: 2026-08-25
 ## 関連用語
 - [glossary_tana.md](glossary_tana.md)(タナ)
 - [glossary_uki.md](glossary_uki.md)(ウキ)
+- [glossary_atari.md](glossary_atari.md)(アタリ)
+- [glossary_omori.md](glossary_omori.md)(オモリ)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [釣りにおけるウキ下とは？長さの決め方や、調整のやり方について詳しく解説！｜電脳釣り部.com](https://www.cybangler.com/ukishita/)(確認日: 2026-08-25)

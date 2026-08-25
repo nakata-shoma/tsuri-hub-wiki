@@ -18,6 +18,7 @@ last_updated: 2026-08-21
 - [glossary_itsuki.md](glossary_itsuki.md)(居着き)
 - [glossary_nezakana.md](glossary_nezakana.md)(根魚)
 - [glossary_teibo.md](glossary_teibo.md)(堤防)
+- [glossary_rockfish.md](glossary_rockfish.md)(ロックフィッシュ)
 
 ## 出典
 - [テトラポッド（消波ブロック）の釣りが本当は怖くて危険な理由とは？｜ORETSURI](https://oretsuri.com/tetrapod-fishing-risk)(確認日: 2026-08-21)

@@ -15,6 +15,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_kuishibui.md](glossary_kuishibui.md)(食い渋り)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [チェイスとは？渓流釣りで魚が追うのに釣れない（見切られる）3つの理由と食わせるコツ｜アウトドアマガジン 遊山](https://yuzan-life.com/lure-chase-but-no-bite-guide/)(確認日: 2026-08-21)

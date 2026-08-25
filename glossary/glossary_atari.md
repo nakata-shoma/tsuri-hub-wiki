@@ -18,6 +18,11 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_tana.md](glossary_tana.md)(タナ)
 - [glossary_awase.md](glossary_awase.md)(合わせ)
+- [glossary_fall.md](glossary_fall.md)(フォール)
+- [glossary_oigui.md](glossary_oigui.md)(追い食い)
+- [glossary_polarized.md](glossary_polarized.md)(偏光サングラス)
+- [glossary_uki.md](glossary_uki.md)(ウキ)
+- [glossary_ukishita.md](glossary_ukishita.md)(ウキ下)
 
 ## 出典
 - [あたり アタリ｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=23)(確認日: 2026-08-20)

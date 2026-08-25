@@ -17,6 +17,13 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_harisu.md](glossary_harisu.md)(ハリス)
 - [glossary_leader.md](glossary_leader.md)(リーダー)
+- [glossary_gousuu.md](glossary_gousuu.md)(号数)
+- [glossary_nimaijio.md](glossary_nimaijio.md)(二枚潮)
+- [glossary_omatsuri.md](glossary_omatsuri.md)(おまつり)
+- [glossary_omori.md](glossary_omori.md)(オモリ)
+- [glossary_reel.md](glossary_reel.md)(スピニングリール・ベイトリール)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_tenbin.md](glossary_tenbin.md)(天秤)
 
 ## 出典
 - [みちいと 道糸｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=427)(確認日: 2026-08-21)

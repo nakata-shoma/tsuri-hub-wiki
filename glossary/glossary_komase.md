@@ -16,7 +16,10 @@ last_updated: 2026-08-21
 - コマセ(撒き餌)の使用可否は釣り場によって制限・禁止されている場合がある。
 
 ## 関連用語
-- (今後、付け餌・アミエビなど関連語を追加予定)
+- [glossary_amiebi.md](glossary_amiebi.md)(アミエビ)
+- [glossary_haigouesa.md](glossary_haigouesa.md)(配合餌)
+- [glossary_okiami.md](glossary_okiami.md)(オキアミ)
+- [glossary_tsukeesa.md](glossary_tsukeesa.md)(付け餌)
 
 ## 出典
 - [こませ(コマセ)とは？ 意味や使い方｜コトバンク](https://kotobank.jp/word/%E3%81%93%E3%81%BE%E3%81%9B-504388)(確認日: 2026-08-21)

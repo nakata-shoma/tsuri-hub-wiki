@@ -20,6 +20,9 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_line_types.md](glossary_line_types.md)(ナイロン・フロロ・PEライン)
+- [glossary_harisu.md](glossary_harisu.md)(ハリス)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
+- [glossary_omori.md](glossary_omori.md)(オモリ)
 
 ## 出典
 - [釣り糸(ライン)の単位lbとは？号数の換算早見表で詳しく紹介｜FUNC](https://tsuri-girl.com/column/25340/)(確認日: 2026-08-21)

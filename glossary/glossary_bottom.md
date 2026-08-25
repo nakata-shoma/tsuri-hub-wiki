@@ -16,6 +16,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_range.md](glossary_range.md)(レンジ)
 - [glossary_negakari.md](glossary_negakari.md)(根掛かり)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [ボトムの意味とは？釣り用語を解説します【釣り用語辞典】｜釣りラボマガジン](https://tsuri-labo.jp/word/24465)(確認日: 2026-08-21)

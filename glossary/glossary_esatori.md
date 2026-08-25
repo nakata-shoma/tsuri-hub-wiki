@@ -16,6 +16,7 @@ last_updated: 2026-08-20
 
 ## 関連用語
 - [glossary_gedou.md](glossary_gedou.md)(外道)
+- [glossary_honmei.md](glossary_honmei.md)(本命)
 
 ## 出典
 - [覚えておきたい釣り用語｜Crazy Fishing](https://www.crazy-fishing.com/ja/%E8%B1%86%E7%9F%A5%E8%AD%98/%E9%87%A3%E3%82%8A%E7%94%A8%E8%AA%9E/)(確認日: 2026-08-20)

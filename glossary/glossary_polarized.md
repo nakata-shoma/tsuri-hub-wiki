@@ -15,7 +15,8 @@ last_updated: 2026-08-21
 - ウキの動きやラインの動きなど、細かなアタリを視認しやすくする効果もあるとされる。
 
 ## 関連用語
-- (今後、ウェア・安全装備など関連語を追加予定)
+- [glossary_atari.md](glossary_atari.md)(アタリ)
+- [glossary_uki.md](glossary_uki.md)(ウキ)
 
 ## 出典
 - [釣りの必需品！偏光サングラスとは？選び方とおすすめを紹介｜アイガン](https://www.aigan.co.jp/aigan_style/sunglasses/148)(確認日: 2026-08-21)

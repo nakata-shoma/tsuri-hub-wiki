@@ -18,6 +18,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_amiebi.md](glossary_amiebi.md)(アミエビ)
 - [glossary_komase.md](glossary_komase.md)(コマセ)
+- [glossary_tsukeesa.md](glossary_tsukeesa.md)(付け餌)
 
 ## 出典
 - [「オキアミ」って何？実はエビじゃない定番の釣りエサ｜Honda釣り倶楽部](https://www.honda.co.jp/fishing/news/news-20201222/)(確認日: 2026-08-21)

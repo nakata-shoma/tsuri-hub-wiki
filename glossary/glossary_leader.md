@@ -16,6 +16,9 @@ last_updated: 2026-08-20
 
 ## 関連用語
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_cast.md](glossary_cast.md)(キャスト)
+- [glossary_line_types.md](glossary_line_types.md)(PEライン)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
 
 ## 出典
 - [リーダー（りーだー）｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=189)(確認日: 2026-08-20)

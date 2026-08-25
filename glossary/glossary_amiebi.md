@@ -18,6 +18,7 @@ last_updated: 2026-08-23
 ## 関連用語
 - [glossary_okiami.md](glossary_okiami.md)(オキアミ)
 - [glossary_komase.md](glossary_komase.md)(コマセ)
+- [glossary_haigouesa.md](glossary_haigouesa.md)(配合餌)
 
 ## 出典
 - [釣り餌の定番【アミエビ】とは？オキアミとの違い・使い道・入手方法を解説｜釣りラボマガジン](https://tsuri-labo.jp/technique/3031)(確認日: 2026-08-21)

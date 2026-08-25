@@ -18,6 +18,8 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_uki.md](glossary_uki.md)(ウキ)
 - [glossary_cushiongom.md](glossary_cushiongom.md)(クッションゴム)
+- [glossary_omori.md](glossary_omori.md)(オモリ)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [シモリ玉ってどんな役割があるの？仕掛けの用途をチェック！｜TSURI HACK](https://tsurihack.com/605)(確認日: 2026-08-21)

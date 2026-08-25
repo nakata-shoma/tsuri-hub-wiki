@@ -15,6 +15,7 @@ last_updated: 2026-08-24
 
 ## 関連用語
 - [glossary_gedou.md](glossary_gedou.md)(外道)
+- [glossary_hari.md](glossary_hari.md)(針)
 
 ## 出典
 - [キャッチ・アンド・リリース - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9)(確認日: 2026-08-21)

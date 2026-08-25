@@ -16,6 +16,8 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_kiwa.md](glossary_kiwa.md)(際)
+- [glossary_break.md](glossary_break.md)(ブレイク)
+- [glossary_teibo.md](glossary_teibo.md)(堤防)
 
 ## 出典
 - [間違えやすい釣り用語8選！カバーとストラクチャーの違いって知ってる？｜TSURI HACK](https://tsurihack.com/3348)(確認日: 2026-08-21)

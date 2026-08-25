@@ -14,6 +14,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_gedou.md](glossary_gedou.md)(外道)
+- [glossary_esatori.md](glossary_esatori.md)(エサ取り)
 
 ## 出典
 - [一般社会では通用しない『釣り用語』７選 釣り人ならば常識？｜TSURINEWS](https://tsurinews.jp/43176/)(確認日: 2026-08-21)

@@ -17,6 +17,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_oigui.md](glossary_oigui.md)(追い食い)
 - [glossary_jiai.md](glossary_jiai.md)(時合)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [いれぐい 入れ食い｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=57)(確認日: 2026-08-21)

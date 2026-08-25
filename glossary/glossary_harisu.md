@@ -17,6 +17,11 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_michiito.md](glossary_michiito.md)(道糸)
 - [glossary_leader.md](glossary_leader.md)(リーダー)
+- [glossary_barasu.md](glossary_barasu.md)(バラす)
+- [glossary_gousuu.md](glossary_gousuu.md)(号数)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_sumishio.md](glossary_sumishio.md)(澄み潮)
+- [glossary_tenbin.md](glossary_tenbin.md)(天秤)
 
 ## 出典
 - [釣りの基礎知識〜ハリスの意味と使い方〜｜調整さん](https://chouseisan.com/l/post-50270/)(確認日: 2026-08-21)

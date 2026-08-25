@@ -23,6 +23,8 @@ last_updated: 2026-08-24
 - [glossary_iregui.md](glossary_iregui.md)(入れ食い)
 - [glossary_ikka.md](glossary_ikka.md)(一荷)
 - [glossary_jiai.md](glossary_jiai.md)(時合)
+- [glossary_atari.md](glossary_atari.md)(アタリ)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [魚はなぜ追い食いするのか?｜釣割](https://www.chowari.jp/sp/column/detail.php?c=244)(確認日: 2026-08-21)

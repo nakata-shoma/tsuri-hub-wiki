@@ -18,6 +18,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_kaiyugyo.md](glossary_kaiyugyo.md)(回遊魚)
 - [glossary_nezakana.md](glossary_nezakana.md)(根魚)
+- [glossary_tetora.md](glossary_tetora.md)(テトラポッド)
 
 ## 出典
 - [なぜ同じ魚でも回遊魚と居着き魚に分かれるのか？特徴と代表魚種を徹底解説！｜つったろうねっと](https://tsuttarou.net/archives/238074)(確認日: 2026-08-24)

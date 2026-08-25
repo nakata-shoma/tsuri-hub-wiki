@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_leader.md](glossary_leader.md)(リーダー)
+- [glossary_reel.md](glossary_reel.md)(スピニングリール・ベイトリール)
 
 ## 出典
 - [釣り用語の「ドラグ」とは何のこと？大物とのファイトを制する必須機能｜レジャーフィッシングガイド](https://www.e-leisure.jp/basics/detail/1707/)(確認日: 2026-08-21)

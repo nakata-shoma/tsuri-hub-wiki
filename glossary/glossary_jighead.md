@@ -18,6 +18,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_worm.md](glossary_worm.md)(ワーム)
 - [glossary_hadou.md](glossary_hadou.md)(波動)
+- [glossary_omori.md](glossary_omori.md)(オモリ)
 
 ## 出典
 - [今さら聞けないジグヘッドのキホン：「ヘッド」部の代表的種類とは？｜TSURINEWS](https://tsurinews.jp/169785/)(確認日: 2026-08-21)

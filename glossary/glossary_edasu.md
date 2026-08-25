@@ -15,6 +15,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_harisu.md](glossary_harisu.md)(ハリス)
 - [glossary_ikka.md](glossary_ikka.md)(一荷)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 
 ## 出典
 - [えだす エダス｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=81)(確認日: 2026-08-21)

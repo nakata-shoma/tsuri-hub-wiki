@@ -16,6 +16,13 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_tenbin.md](glossary_tenbin.md)(天秤)
+- [glossary_gousuu.md](glossary_gousuu.md)(号数)
+- [glossary_jighead.md](glossary_jighead.md)(ジグヘッド)
+- [glossary_negakari.md](glossary_negakari.md)(根掛かり)
+- [glossary_michiito.md](glossary_michiito.md)(道糸)
+- [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_shimoridama.md](glossary_shimoridama.md)(シモリ玉)
+- [glossary_ukishita.md](glossary_ukishita.md)(ウキ下)
 
 ## 出典
 - [重り(オモリ)とは？ 意味や使い方｜コトバンク](https://kotobank.jp/word/%E9%87%8D%E3%82%8A-454950)(確認日: 2026-08-21)

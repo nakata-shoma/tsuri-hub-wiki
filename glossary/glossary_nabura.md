@@ -16,7 +16,8 @@ last_updated: 2026-08-20
 - 似た現象に「ボイル」「ライズ」があるが、厳密な使い分けは資料によって差があるため要確認。
 
 ## 関連用語
-- (今後、ボイル・ライズなど関連語を追加予定)
+- [glossary_kaiyugyo.md](glossary_kaiyugyo.md)(回遊魚)
+- [glossary_mojiri.md](glossary_mojiri.md)(ライズ)
 
 ## 出典
 - [ナブラとは？発生しやすい時間・場所・攻略方法を解説｜SHIMANO シマノ](https://fish.shimano.com/ja-JP/content/beginners/fishing/nabla/index.html)(確認日: 2026-08-20)
