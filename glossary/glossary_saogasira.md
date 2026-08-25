@@ -1,0 +1,21 @@
+---
+status: 完了
+category: glossary
+last_updated: 2026-08-21
+---
+
+# 竿頭(さおがしら)
+
+## 意味
+竿頭とは、船釣りなどで同じ船に乗り合わせた釣り人の中で、最も釣果の良かった人のことである。
+
+## 補足
+- 数量(匹数)または魚のサイズで判断されることが多い。
+- 船によっては竿頭に賞品を出すなど、釣行を盛り上げる仕組みとして使われることがある。
+
+## 関連用語
+- [glossary_kazuduri.md](glossary_kazuduri.md)(数釣り)
+- [glossary_kata.md](glossary_kata.md)(型)
+
+## 出典
+- [竿頭(カントウ)とは？ 意味や使い方｜コトバンク](https://kotobank.jp/word/%E7%AB%BF%E9%A0%AD-470944)(確認日: 2026-08-21)
