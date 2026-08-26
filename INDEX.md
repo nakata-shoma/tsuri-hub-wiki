@@ -53,19 +53,33 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
-
-| manner/manner_trash.md | ゴミの持ち帰り | 未着手 | - |
-| manner/manner_parking_noise.md | 駐車・騒音マナー | 未着手 | - |
-| manner/manner_distance.md | 他の釣り人との距離・場所取り | 未着手 | - |
+| [manner/manner_trash.md](manner/manner_trash.md) | ゴミの持ち帰り | 下書き | 2026-08-25 |
+| [manner/manner_parking_noise.md](manner/manner_parking_noise.md) | 駐車・騒音マナー | 下書き | 2026-08-25 |
+| [manner/manner_distance.md](manner/manner_distance.md) | 他の釣り人との距離・場所取り | 下書き | 2026-08-25 |
+| [manner/manner_komase.md](manner/manner_komase.md) | コマセ・撒き餌のマナー | 下書き | 2026-08-25 |
+| [manner/manner_line_disposal.md](manner/manner_line_disposal.md) | 仕掛け・ラインの後始末 | 下書き | 2026-08-25 |
+| [manner/manner_private_property.md](manner/manner_private_property.md) | 私有地・立入禁止エリアの扱い | 下書き | 2026-08-25 |
+| [manner/manner_night_light.md](manner/manner_night_light.md) | 夜釣りの灯り・静穏マナー | 下書き | 2026-08-25 |
+| [manner/manner_release.md](manner/manner_release.md) | 魚の取り扱い・リリースマナー | 下書き | 2026-08-25 |
+| [manner/manner_sns.md](manner/manner_sns.md) | 釣果・場所のSNS投稿マナー | 下書き | 2026-08-25 |
+| [manner/manner_gyokou.md](manner/manner_gyokou.md) | 漁港・地元関係者との関わり方 | 下書き | 2026-08-25 |
+| [manner/manner_law.md](manner/manner_law.md) | 釣りに関わる法律の基礎知識 | 要出典確認 | 2026-08-25 |
 
 
 ## 4. safety(安全・海の危険)
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
-| safety/safety_kikenseibutu.md | 危険生物 | 未着手 | - |
-| safety/safety_fall_into_water.md | 落水時の対応 | 未着手 | - |
-| safety/safety_heatstroke.md | 熱中症対策 | 未着手 | - |
+| [safety/safety_kikenseibutu.md](safety/safety_kikenseibutu.md) | 危険生物 | 完了 | 2026-08-26 |
+| [safety/safety_fall_into_water.md](safety/safety_fall_into_water.md) | 落水時の対応 | 完了 | 2026-08-26 |
+| [safety/safety_heatstroke.md](safety/safety_heatstroke.md) | 熱中症対策 | 完了 | 2026-08-26 |
+| [safety/safety_hypothermia.md](safety/safety_hypothermia.md) | 低体温症対策 | 完了 | 2026-08-26 |
+| [safety/safety_weather_check.md](safety/safety_weather_check.md) | 気象・海象の確認と中止判断 | 完了 | 2026-08-26 |
+| [safety/safety_contact.md](safety/safety_contact.md) | 単独行動を避ける・行き先を伝える・連絡手段の確保 | 完了 | 2026-08-26 |
+| [safety/safety_lifejacket.md](safety/safety_lifejacket.md) | ライフジャケットの着用 | 完了 | 2026-08-26 |
+| [safety/safety_footwear.md](safety/safety_footwear.md) | 足元の安全・滑り止めの靴 | 完了 | 2026-08-26 |
+| [safety/safety_tetrapod.md](safety/safety_tetrapod.md) | 消波ブロック・立入禁止区域の危険 | 完了 | 2026-08-26 |
+| [safety/safety_emergency_call.md](safety/safety_emergency_call.md) | 緊急通報(118番)と海難事故時の対応 | 完了 | 2026-08-26 |
 
 ## 5. beginner(初心者ガイド)
 
@@ -409,4 +423,5 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 - 下書きの添削には[wiki-proofreadスキル](.claude/skills/wiki-proofread/SKILL.md)(`/wiki-proofread <ファイルパス>`)を使う。日本語校正・事実と推測の区別・出典明記・テンプレート準拠などを一括チェックできる。
 - 出典の正確性検証には[wiki-factcheckスキル](.claude/skills/wiki-factcheck/SKILL.md)(`/wiki-factcheck <ファイルパス>`)を使う。記載済みの出典を実際に取得し、本文記述との整合性・一次情報性・リンク切れの有無を確認する。
 - glossary記事の関連用語見直しには[wiki-relatedtermsスキル](.claude/skills/wiki-relatedterms/SKILL.md)(`/wiki-relatedterms <ファイルパス>`)を使う。既存記事との相互リンクを補い、記事が存在しない用語はスタブ記事を新規作成する。
+- safety記事の執筆・リライトには[wiki-safetywriteスキル](.claude/skills/wiki-safetywrite/SKILL.md)(`/wiki-safetywrite <ファイルパス>`)を使う。報告書的な箇条書き羅列ではなく、読者に教える文章形式で書くsafetyカテゴリ特有のスタイル(詳細は[CLAUDE.md](CLAUDE.md)「safetyカテゴリの執筆スタイル」)を適用する。
 - TSURI HUB本体への統合方式(`import_wiki`コマンドによるDBへの取り込み・本番運用の考え方)、および画像を扱う際の方針(gitには含めず別途一括インポートする設計)は[CLAUDE.md](CLAUDE.md)の「TSURI HUB本体への統合方針」「画像の扱い」を参照。
