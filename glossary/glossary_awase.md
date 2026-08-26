@@ -1,5 +1,5 @@
 ---
-status: 下書き
+status: 完了
 category: glossary
 last_updated: 2026-08-21
 ---
