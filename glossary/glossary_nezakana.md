@@ -22,6 +22,8 @@ last_updated: 2026-08-24
 - [glossary_rockfish.md](glossary_rockfish.md)(ロックフィッシュ)
 - [glossary_tetora.md](glossary_tetora.md)(テトラポッド)
 - [glossary_worm.md](glossary_worm.md)(ワーム)
+- [glossary_nezure.md](glossary_nezure.md)(根ズレ)
+- [glossary_gorota.md](glossary_gorota.md)(ゴロタ(ゴロタ浜・ゴロタ場))
 
 ## 出典
 - [高級魚がおもしろいように釣れる！？やみつき必至の「根魚釣り」のコツを初心者にもわかりやすく解説！｜BE-PAL](https://www.bepal.net/archives/174255)(確認日: 2026-08-21)

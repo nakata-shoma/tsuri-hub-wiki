@@ -15,6 +15,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_rod.md](glossary_rod.md)(ロッド)
+- [glossary_takagire.md](glossary_takagire.md)(高切れ)
 
 ## 出典
 - [【釣り用語】ガイドとは？ ガイドの意味と特徴を分かりやすく解析｜366日釣りがし隊](https://fishing-go-go.com/gaido/)(確認日: 2026-08-21)

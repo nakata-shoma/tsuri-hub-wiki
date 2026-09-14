@@ -15,6 +15,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - (今後、船釣り関連の用語を追加予定)
+- [glossary_shore.md](glossary_shore.md)(ショア・オフショア)
 
 ## 出典
 - [魚群探知機とは？｜マリン製品｜本多電子株式会社](https://www.honda-el.co.jp/product/marine/document/knowledge_for_fishfinder/about)(確認日: 2026-08-21)

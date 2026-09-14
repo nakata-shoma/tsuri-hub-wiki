@@ -17,6 +17,9 @@ last_updated: 2026-08-20
 
 ## 関連用語
 - [glossary_mazume.md](glossary_mazume.md)(マズメ)
+- [glossary_kassei.md](glossary_kassei.md)(活性)
+- [glossary_tegaeshi.md](glossary_tegaeshi.md)(手返し)
+- [glossary_ageshio.md](glossary_ageshio.md)(上げ潮・下げ潮)
 
 ## 出典
 - [時合(ジアイ)とは？ 意味や使い方｜コトバンク](https://kotobank.jp/word/%E6%99%82%E5%90%88-515341)(確認日: 2026-08-20)

@@ -17,6 +17,7 @@ last_updated: 2026-08-21
 - [glossary_mancho.md](glossary_mancho.md)(満潮)
 - [glossary_shiomawari.md](glossary_shiomawari.md)(潮回り)
 - [glossary_shiomihyou.md](glossary_shiomihyou.md)(潮見表)
+- [glossary_ageshio.md](glossary_ageshio.md)(上げ潮・下げ潮)
 
 ## 出典
 - [覚えておきたい釣りの基礎知識「満潮と干潮どっちが釣れる？」｜Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/43b10cbff3638a18972d081c73e49e8377a34c3b)(確認日: 2026-08-21)

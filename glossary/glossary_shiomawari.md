@@ -19,6 +19,7 @@ last_updated: 2026-08-20
 ## 関連用語
 - [glossary_jiai.md](glossary_jiai.md)(時合)
 - [glossary_shiome.md](glossary_shiome.md)(潮目)
+- [glossary_ageshio.md](glossary_ageshio.md)(上げ潮・下げ潮)
 
 ## 出典
 - [意外と知らない「潮回り」のキホン 【釣りやすい潮と釣りにくい潮】｜TSURINEWS](https://tsurinews.jp/190592/)(確認日: 2026-08-20)

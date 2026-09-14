@@ -15,6 +15,8 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_shaku.md](glossary_shaku.md)(尺)
 - [glossary_kazuduri.md](glossary_kazuduri.md)(数釣り)
+- [glossary_shusseuo.md](glossary_shusseuo.md)(出世魚)
+- [glossary_lunker.md](glossary_lunker.md)(ランカー)
 
 ## 出典
 - [りょうがた？りょうけい？ 良型の読み方。｜釣りにゃんだろう](https://www.nyandaro.com/entry/ryougata)(確認日: 2026-08-21)

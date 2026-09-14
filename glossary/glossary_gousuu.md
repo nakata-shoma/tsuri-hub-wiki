@@ -23,6 +23,7 @@ last_updated: 2026-08-21
 - [glossary_harisu.md](glossary_harisu.md)(ハリス)
 - [glossary_michiito.md](glossary_michiito.md)(道糸)
 - [glossary_omori.md](glossary_omori.md)(オモリ)
+- [glossary_gandama.md](glossary_gandama.md)(ガン玉)
 
 ## 出典
 - [釣り糸(ライン)の単位lbとは？号数の換算早見表で詳しく紹介｜FUNC](https://tsuri-girl.com/column/25340/)(確認日: 2026-08-21)

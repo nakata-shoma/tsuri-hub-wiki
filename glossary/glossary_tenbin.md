@@ -19,6 +19,7 @@ last_updated: 2026-08-21
 - [glossary_harisu.md](glossary_harisu.md)(ハリス)
 - [glossary_michiito.md](glossary_michiito.md)(道糸)
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_doutsuki.md](glossary_doutsuki.md)(胴突き仕掛け)
 
 ## 出典
 - [釣り用『天秤（テンビン）』の役割と特徴 釣り物ごとの選び方を解説｜TSURINEWS](https://tsurinews.jp/86124/)(確認日: 2026-08-21)

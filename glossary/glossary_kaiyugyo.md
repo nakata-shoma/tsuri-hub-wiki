@@ -18,6 +18,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_itsuki.md](glossary_itsuki.md)(居着き)
 - [glossary_nabura.md](glossary_nabura.md)(ナブラ)
+- [glossary_shusseuo.md](glossary_shusseuo.md)(出世魚)
 
 ## 出典
 - [回遊魚(カイユウギョ)とは？ 意味や使い方｜コトバンク](https://kotobank.jp/word/%E5%9B%9E%E9%81%8A%E9%AD%9A-458597)(確認日: 2026-08-21)
