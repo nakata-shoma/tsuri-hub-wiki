@@ -18,7 +18,7 @@ last_updated: YYYY-MM-DD
 - 初心者が最初に選ぶ際の考え方:
 
 ## 関連する釣り方・ノット
-- 関連釣り方: (technique_*.mdへのリンク)
+- 関連釣種: (category_*.mdへのリンク)
 - 関連ノット: (knot_*.mdへのリンク)
 
 ## 用語集連携
