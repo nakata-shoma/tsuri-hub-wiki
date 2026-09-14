@@ -1,6 +1,6 @@
 ---
 name: wiki-proofread
-description: TSURI HUB wikiの下書き(Markdown)を、日本語校正・事実と推測の区別・出典明記・テンプレート準拠などの観点で添削する。species/technique/location/glossaryいずれのファイルにも使える。「/wiki-proofread」または「下書きを添削して」等の依頼で呼び出す。
+description: TSURI HUB wikiの下書き(Markdown)を、日本語校正・事実と推測の区別・出典明記・テンプレート準拠などの観点で添削する。species/category/technique/location/glossaryいずれのファイルにも使える。「/wiki-proofread」または「下書きを添削して」等の依頼で呼び出す。
 ---
 
 # wiki-proofread
@@ -13,7 +13,7 @@ TSURI HUB wiki([CLAUDE.md](../../CLAUDE.md)参照)の下書きMarkdownを添削�
 
 - `$ARGUMENTS` にファイルパスが指定されていれば、そのファイルを対象にする(複数可)。
 - 指定がなければ、直近で作成・編集されたMarkdownファイル(会話内で扱ったファイル)を対象にする。それも不明な場合はユーザーに対象ファイルを確認する。
-- `species/` `technique/` `location/` `glossary/` のいずれに属するかで、適用するチェック項目(特に7・8)を調整する。
+- `species/` `category/` `technique/` `location/` `glossary/` のいずれに属するかで、適用するチェック項目(特に7・8)を調整する。
 
 ## チェック項目
 
