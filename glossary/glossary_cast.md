@@ -16,6 +16,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_leader.md](glossary_leader.md)(リーダー)
+- [glossary_backlash.md](glossary_backlash.md)(バックラッシュ)
 
 ## 出典
 - [キャスト（きゃすと）｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=139)(確認日: 2026-08-21)

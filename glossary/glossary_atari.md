@@ -23,6 +23,8 @@ last_updated: 2026-08-24
 - [glossary_polarized.md](glossary_polarized.md)(偏光サングラス)
 - [glossary_uki.md](glossary_uki.md)(ウキ)
 - [glossary_ukishita.md](glossary_ukishita.md)(ウキ下)
+- [glossary_itofuke.md](glossary_itofuke.md)(糸フケ)
+- [glossary_mukouawase.md](glossary_mukouawase.md)(向こうアワセ)
 
 ## 出典
 - [あたり アタリ｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=23)(確認日: 2026-08-20)

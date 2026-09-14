@@ -25,6 +25,8 @@ last_updated: 2026-08-25
 
 ## 関連用語
 - (今後、安全装備・ライフベストに関する用語を追加予定)
+- [glossary_surf.md](glossary_surf.md)(サーフ)
+- [glossary_gorota.md](glossary_gorota.md)(ゴロタ(ゴロタ浜・ゴロタ場))
 
 ## 出典
 - [海事：ライフジャケットの着用義務拡大｜国土交通省](https://www.mlit.go.jp/maritime/maritime_fr6_000018.html)(確認日: 2026-08-21)

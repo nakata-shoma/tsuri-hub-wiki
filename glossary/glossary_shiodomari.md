@@ -18,6 +18,8 @@ last_updated: 2026-08-21
 - [glossary_kancho.md](glossary_kancho.md)(干潮)
 - [glossary_mancho.md](glossary_mancho.md)(満潮)
 - [glossary_shiomawari.md](glossary_shiomawari.md)(潮回り)
+- [glossary_kassei.md](glossary_kassei.md)(活性)
+- [glossary_ageshio.md](glossary_ageshio.md)(上げ潮・下げ潮)
 
 ## 出典
 - [潮止まりに"潮流"は止まりません。誤解が多い潮汐・潮位・潮流について再考｜TSURI HACK](https://tsurihack.com/7623)(確認日: 2026-08-21)

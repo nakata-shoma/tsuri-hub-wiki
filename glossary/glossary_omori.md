@@ -23,6 +23,10 @@ last_updated: 2026-08-21
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_shimoridama.md](glossary_shimoridama.md)(シモリ玉)
 - [glossary_ukishita.md](glossary_ukishita.md)(ウキ下)
+- [glossary_sokotori.md](glossary_sokotori.md)(底取り)
+- [glossary_gandama.md](glossary_gandama.md)(ガン玉)
+- [glossary_doutsuki.md](glossary_doutsuki.md)(胴突き仕掛け)
+- [glossary_denkiuki.md](glossary_denkiuki.md)(電気ウキ)
 
 ## 出典
 - [重り(オモリ)とは？ 意味や使い方｜コトバンク](https://kotobank.jp/word/%E9%87%8D%E3%82%8A-454950)(確認日: 2026-08-21)

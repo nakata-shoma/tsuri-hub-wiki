@@ -22,6 +22,8 @@ last_updated: 2026-08-25
 - [glossary_atari.md](glossary_atari.md)(アタリ)
 - [glossary_omori.md](glossary_omori.md)(オモリ)
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
+- [glossary_ukidome.md](glossary_ukidome.md)(ウキ止め)
+- [glossary_denkiuki.md](glossary_denkiuki.md)(電気ウキ)
 
 ## 出典
 - [釣りにおけるウキ下とは？長さの決め方や、調整のやり方について詳しく解説！｜電脳釣り部.com](https://www.cybangler.com/ukishita/)(確認日: 2026-08-25)

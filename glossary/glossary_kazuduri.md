@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_tsunuke.md](glossary_tsunuke.md)(ツ抜け)
 - [glossary_kata.md](glossary_kata.md)(型)
+- [glossary_tegaeshi.md](glossary_tegaeshi.md)(手返し)
 
 ## 出典
 - [数釣り – 釣りの教科書](https://fishing-rungun.com/glossary/kazutsuri/)(確認日: 2026-08-21)

@@ -39,6 +39,8 @@ last_updated: 2026-08-20
 - [glossary_tenbin.md](glossary_tenbin.md)(天秤)
 - [glossary_ukishita.md](glossary_ukishita.md)(ウキ下)
 - [glossary_worm.md](glossary_worm.md)(ワーム)
+- [glossary_tegaeshi.md](glossary_tegaeshi.md)(手返し)
+- [glossary_doutsuki.md](glossary_doutsuki.md)(胴突き仕掛け)
 
 ## 出典
 - [しかけ 仕掛け｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=229)(確認日: 2026-08-20)

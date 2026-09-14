@@ -22,6 +22,8 @@ last_updated: 2026-08-21
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_sumishio.md](glossary_sumishio.md)(澄み潮)
 - [glossary_tenbin.md](glossary_tenbin.md)(天秤)
+- [glossary_nezure.md](glossary_nezure.md)(根ズレ)
+- [glossary_gandama.md](glossary_gandama.md)(ガン玉)
 
 ## 出典
 - [釣りの基礎知識〜ハリスの意味と使い方〜｜調整さん](https://chouseisan.com/l/post-50270/)(確認日: 2026-08-21)

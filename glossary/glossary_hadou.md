@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_jig.md](glossary_jig.md)(ジグ)
 - [glossary_tadamaki.md](glossary_tadamaki.md)(ただ巻き)
+- [glossary_sure.md](glossary_sure.md)(スレ(スレ掛かり・スレる))
 
 ## 出典
 - [「ルアー釣り」超入門 よく聞くけどいまいち分からない『波動』って何？｜TSURINEWS](https://tsurinews.jp/186313/)(確認日: 2026-08-21)

@@ -16,6 +16,7 @@ last_updated: 2026-08-23
 ## 関連用語
 - [glossary_nokkomi.md](glossary_nokkomi.md)(乗っ込み)
 - [glossary_jiai.md](glossary_jiai.md)(時合)
+- [glossary_kassei.md](glossary_kassei.md)(活性)
 
 ## 出典
 - [荒食いとは｜釣り用語辞典](https://www.fishing-labo.net/modules/xwords/word30_1.htm)(確認日: 2026-08-21)

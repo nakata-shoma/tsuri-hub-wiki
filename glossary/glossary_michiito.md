@@ -24,6 +24,10 @@ last_updated: 2026-08-21
 - [glossary_reel.md](glossary_reel.md)(スピニングリール・ベイトリール)
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_tenbin.md](glossary_tenbin.md)(天秤)
+- [glossary_itofuke.md](glossary_itofuke.md)(糸フケ)
+- [glossary_takagire.md](glossary_takagire.md)(高切れ)
+- [glossary_backlash.md](glossary_backlash.md)(バックラッシュ)
+- [glossary_ukidome.md](glossary_ukidome.md)(ウキ止め)
 
 ## 出典
 - [みちいと 道糸｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=427)(確認日: 2026-08-21)

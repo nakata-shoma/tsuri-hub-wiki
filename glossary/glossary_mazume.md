@@ -17,6 +17,7 @@ last_updated: 2026-08-20
 
 ## 関連用語
 - [glossary_jiai.md](glossary_jiai.md)(時合)
+- [glossary_kassei.md](glossary_kassei.md)(活性)
 
 ## 出典
 - [朝マズメ・夕マズメとは？釣れる時間帯と理由を漁師が解説｜海と乾杯](https://umitokanpai.jp/mazume-fishing-time/)(確認日: 2026-08-20)
