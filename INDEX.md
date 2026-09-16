@@ -13,13 +13,14 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
   - [5. beginner(初心者ガイド)](#5-beginner初心者ガイド)
   - [6. location(釣り場・ストラクチャー)](#6-location釣り場ストラクチャー)
   - [7. tackle/tool(タックル・釣り道具)](#7-tackletoolタックル釣り道具)
-  - [8. technique(釣り方)](#8-technique釣り方)
-  - [9. knot(ノット・結び方)](#9-knotノット結び方)
-  - [10. cooking(魚の持ち帰り・下処理・料理)](#10-cooking魚の持ち帰り下処理料理)
-  - [11. seasonal(季節・シーズナルカレンダー)](#11-seasonal季節シーズナルカレンダー)
-  - [12. species(魚種図鑑)](#12-species魚種図鑑)
-  - [13. glossary(用語集)](#13-glossary用語集)
-  - [14. 運用メモ](#14-運用メモ)
+  - [8. category(釣種)](#8-category釣種)
+  - [9. technique(釣りテクニック)](#9-technique釣りテクニック)
+  - [10. knot(ノット・結び方)](#10-knotノット結び方)
+  - [11. cooking(魚の持ち帰り・下処理・料理)](#11-cooking魚の持ち帰り下処理料理)
+  - [12. seasonal(季節・シーズナルカレンダー)](#12-seasonal季節シーズナルカレンダー)
+  - [13. species(魚種図鑑)](#13-species魚種図鑑)
+  - [14. glossary(用語集)](#14-glossary用語集)
+  - [15. 運用メモ](#15-運用メモ)
 
 <!-- /TOC -->
 
@@ -33,6 +34,7 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 ├── beginner/beginner_*.md
 ├── location/location_*.md
 ├── tackle/tackle_*.md
+├── category/category_*.md
 ├── technique/technique_*.md
 ├── knot/knot_*.md
 ├── cooking/cooking_*.md
@@ -53,10 +55,11 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
-| [manner/manner_trash.md](manner/manner_trash.md) | ゴミの持ち帰り | 下書き | 2026-08-25 |
+| [manner/manner_trash.md](manner/manner_trash.md) | ゴミの持ち帰り | 下書き | 2026-09-16 |
 | [manner/manner_parking_noise.md](manner/manner_parking_noise.md) | 駐車・騒音マナー | 下書き | 2026-08-25 |
-| [manner/manner_distance.md](manner/manner_distance.md) | 他の釣り人との距離・場所取り | 下書き | 2026-08-25 |
-| [manner/manner_komase.md](manner/manner_komase.md) | コマセ・撒き餌のマナー | 下書き | 2026-08-25 |
+| [manner/manner_distance.md](manner/manner_distance.md) | 他の釣り人との距離 | 下書き | 2026-09-14 |
+| [manner/manner_spot_reservation.md](manner/manner_spot_reservation.md) | 場所取り | 下書き | 2026-09-14 |
+| [manner/manner_komase.md](manner/manner_komase.md) | コマセ・撒き餌のマナー | 下書き | 2026-09-15 |
 | [manner/manner_line_disposal.md](manner/manner_line_disposal.md) | 仕掛け・ラインの後始末 | 下書き | 2026-08-25 |
 | [manner/manner_private_property.md](manner/manner_private_property.md) | 私有地・立入禁止エリアの扱い | 下書き | 2026-08-25 |
 | [manner/manner_night_light.md](manner/manner_night_light.md) | 夜釣りの灯り・静穏マナー | 下書き | 2026-08-25 |
@@ -64,6 +67,16 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 | [manner/manner_sns.md](manner/manner_sns.md) | 釣果・場所のSNS投稿マナー | 下書き | 2026-08-25 |
 | [manner/manner_gyokou.md](manner/manner_gyokou.md) | 漁港・地元関係者との関わり方 | 下書き | 2026-08-25 |
 | [manner/manner_law.md](manner/manner_law.md) | 釣りに関わる法律の基礎知識 | 要出典確認 | 2026-08-25 |
+| [manner/manner_greeting_others.md](manner/manner_greeting_others.md) | 他の釣り人へのあいさつ・干渉しない配慮 | 下書き | 2026-08-27 |
+| [manner/manner_children_pets.md](manner/manner_children_pets.md) | 子供連れ・ペット同伴のマナー | 下書き | 2026-08-27 |
+| [manner/manner_smoking.md](manner/manner_smoking.md) | 喫煙・吸い殻のマナー | 下書き | 2026-09-15 |
+| [manner/manner_feeding_wildlife.md](manner/manner_feeding_wildlife.md) | 野鳥・野生動物への餌やり禁止 | 下書き | 2026-09-15 |
+| [manner/manner_filming.md](manner/manner_filming.md) | 撮影・動画配信のマナー | 要出典確認 | 2026-08-27 |
+| [manner/manner_drone.md](manner/manner_drone.md) | ドローン・水中ドローンのマナーと注意点 | 要出典確認 | 2026-08-27 |
+| [manner/manner_multiple_rods.md](manner/manner_multiple_rods.md) | 複数竿・仕掛けの本数とスペース占有 | 要出典確認 | 2026-08-27 |
+| [manner/manner_soft_lure_waste.md](manner/manner_soft_lure_waste.md) | ソフトルアー(ワーム)の欠片・マイクロプラスチック問題 | 下書き | 2026-08-27 |
+| [manner/manner_lost_gear.md](manner/manner_lost_gear.md) | タックルの忘れ物・置き忘れ防止 | 下書き | 2026-08-27 |
+| [manner/manner_walkway.md](manner/manner_walkway.md) | 通路の確保・道具を広げすぎない | 下書き | 2026-08-27 |
 
 
 ## 4. safety(安全・海の危険)
@@ -85,9 +98,11 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
-| beginner/beginner_start.md | 釣りの始め方・最初に揃える道具 | 未着手 | - |
-| beginner/beginner_license.md | 遊漁券の基礎知識 | 未着手 | - |
-| beginner/beginner_tide_weather.md | 潮汐・天気の読み方(実践ガイド) | 未着手 | - |
+| [beginner/beginner_start.md](beginner/beginner_start.md) | 釣りの始め方・最初に揃える道具 | 下書き | 2026-08-29 |
+| [beginner/beginner_license.md](beginner/beginner_license.md) | 遊漁券の基礎知識 | 要出典確認 | 2026-08-29 |
+| [beginner/beginner_tide_weather.md](beginner/beginner_tide_weather.md) | 潮汐・天気の読み方(実践ガイド) | 下書き | 2026-08-29 |
+| [beginner/beginner_choose_style.md](beginner/beginner_choose_style.md) | 自分に合った釣り方(釣種)の選び方 | 下書き | 2026-08-29 |
+| [beginner/beginner_first_trip.md](beginner/beginner_first_trip.md) | 初めての釣行の流れ・当日の準備 | 下書き | 2026-08-29 |
 
 ## 6. location(釣り場・ストラクチャー)
 
@@ -104,15 +119,43 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 | tackle/tackle_line.md | ライン(ナイロン/フロロ/PE) | 未着手 | - |
 | tackle/tackle_maintenance.md | タックルのメンテナンス・お手入れ | 未着手 | - |
 
-## 8. technique(釣り方)
+## 8. category(釣種)
+DAIWAの釣りカテゴリ([https://www.daiwa.com/jp/fishingcategory/](https://www.daiwa.com/jp/fishingcategory/))を参考に、対象魚・タックル傾向・手順が異なる釣り方の分類を1記事1釣種でまとめる。個別の技術・コツは[9. technique(釣りテクニック)](#9-technique釣りテクニック)を参照。
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
-| technique/technique_sabiki.md | サビキ釣り | 未着手 | - |
-| technique/technique_ajing.md | アジング | 未着手 | - |
-| technique/technique_eging.md | エギング | 未着手 | - |
+| [category/category_sabiki.md](category/category_sabiki.md) | サビキ釣り | 下書き | 2026-08-27 |
+| [category/category_ajing.md](category/category_ajing.md) | アジング | 下書き | 2026-08-27 |
+| [category/category_eging.md](category/category_eging.md) | エギング | 下書き | 2026-08-27 |
+| [category/category_offshore_jigging.md](category/category_offshore_jigging.md) | オフショアジギング | 下書き | 2026-08-27 |
+| [category/category_bass.md](category/category_bass.md) | バス釣り(ブラックバス) | 下書き | 2026-08-27 |
+| [category/category_trout_lure.md](category/category_trout_lure.md) | トラウトルアーフィッシング(管理釣り場) | 下書き | 2026-08-27 |
+| [category/category_fly.md](category/category_fly.md) | フライフィッシング | 下書き | 2026-08-27 |
+| [category/category_boat_tairaba.md](category/category_boat_tairaba.md) | タイラバ | 下書き | 2026-08-27 |
+| [category/category_ukifukase.md](category/category_ukifukase.md) | ウキフカセ釣り | 下書き | 2026-08-27 |
+| [category/category_kaijoutsuribori.md](category/category_kaijoutsuribori.md) | 海上釣堀 | 下書き | 2026-08-27 |
+| [category/category_nageduri.md](category/category_nageduri.md) | 投げ釣り | 下書き | 2026-08-27 |
+| [category/category_ayu_tomozuri.md](category/category_ayu_tomozuri.md) | 鮎の友釣り | 下書き | 2026-08-27 |
+| [category/category_keiryu.md](category/category_keiryu.md) | 渓流釣り(エサ釣り・ミャク釣り) | 下書き | 2026-08-27 |
+| [category/category_herabuna.md](category/category_herabuna.md) | へらぶな釣り | 下書き | 2026-08-27 |
+| [category/category_wakasagi.md](category/category_wakasagi.md) | ワカサギ釣り | 下書き | 2026-08-27 |
+| [category/category_tiprun.md](category/category_tiprun.md) | ティップランエギング | 下書き | 2026-08-28 |
+| [category/category_light_jigging.md](category/category_light_jigging.md) | ライトジギング・スーパーライトジギング(SLJ) | 下書き | 2026-08-28 |
+| [category/category_slow_jigging.md](category/category_slow_jigging.md) | スロージギング | 下書き | 2026-08-28 |
+| [category/category_shore_jigging.md](category/category_shore_jigging.md) | ショアジギング | 下書き | 2026-08-28 |
+| [category/category_seabass.md](category/category_seabass.md) | シーバスゲーム | 下書き | 2026-08-28 |
+| [category/category_rockfish.md](category/category_rockfish.md) | ロックフィッシュゲーム | 下書き | 2026-08-28 |
+| [category/category_mebaring.md](category/category_mebaring.md) | メバリング | 下書き | 2026-08-28 |
+| [category/category_chinning.md](category/category_chinning.md) | チニング | 下書き | 2026-08-28 |
 
-## 9. knot(ノット・結び方)
+## 9. technique(釣りテクニック)
+特定の釣種に限らない個別の技術・コツ(誘い方、アワセ方、ドラグ調整など)を扱う。対応する釣種は各記事から[8. category(釣種)](#8-category釣種)へリンクする。
+
+| ファイル名 | トピック | ステータス | 更新日 |
+|---|---|---|---|
+| (要選定) | - | - | - |
+
+## 10. knot(ノット・結び方)
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
@@ -137,20 +180,20 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 | [knot/knot_bimini.md](knot/knot_bimini.md) | ビミニツイスト | 下書き | 2026-08-24 |
 | [knot/knot_spider.md](knot/knot_spider.md) | スパイダーヒッチ | 下書き | 2026-08-24 |
 
-## 10. cooking(魚の持ち帰り・下処理・料理)
+## 11. cooking(魚の持ち帰り・下処理・料理)
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
 | (要選定) | - | - | - |
 
-## 11. seasonal(季節・シーズナルカレンダー)
+## 12. seasonal(季節・シーズナルカレンダー)
 魚種横断で1ファイルに一本化する(エリア別・釣り方別には分割しない)。月ごとに主な対象魚を一覧化し、詳細はspecies_*.mdへリンクする。
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
 | seasonal/seasonal_calendar.md | 年間シーズナルカレンダー(魚種横断) | 未着手 | - |
 
-## 12. species(魚種図鑑)
+## 13. species(魚種図鑑)
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
@@ -305,7 +348,7 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 | [species/species_mafugu.md](species/species_mafugu.md) | マフグ | 要出典確認 | 2026-08-25 |
 | [species/species_medai.md](species/species_medai.md) | メダイ | 要出典確認 | 2026-08-25 
 
-## 13. glossary(用語集)
+## 14. glossary(用語集)
 
 | ファイル名 | トピック | ステータス | 更新日 |
 |---|---|---|---|
@@ -414,9 +457,30 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 | [glossary/glossary_jighead.md](glossary/glossary_jighead.md) | ジグヘッド | 完了 | 2026-08-21 |
 | [glossary/glossary_rockfish.md](glossary/glossary_rockfish.md) | ロックフィッシュ | 完了 | 2026-08-21 |
 | [glossary/glossary_ukishita.md](glossary/glossary_ukishita.md) | ウキ下 | 完了 | 2026-08-25 |
+| [glossary/glossary_kassei.md](glossary/glossary_kassei.md) | 活性(高活性・低活性) | 下書き | 2026-09-14 |
+| [glossary/glossary_itofuke.md](glossary/glossary_itofuke.md) | 糸フケ | 下書き | 2026-09-14 |
+| [glossary/glossary_sokotori.md](glossary/glossary_sokotori.md) | 底取り | 下書き | 2026-09-14 |
+| [glossary/glossary_nezure.md](glossary/glossary_nezure.md) | 根ズレ | 下書き | 2026-09-14 |
+| [glossary/glossary_takagire.md](glossary/glossary_takagire.md) | 高切れ | 下書き | 2026-09-14 |
+| [glossary/glossary_backlash.md](glossary/glossary_backlash.md) | バックラッシュ | 下書き | 2026-09-14 |
+| [glossary/glossary_tegaeshi.md](glossary/glossary_tegaeshi.md) | 手返し | 下書き | 2026-09-14 |
+| [glossary/glossary_mukouawase.md](glossary/glossary_mukouawase.md) | 向こうアワセ | 下書き | 2026-09-14 |
+| [glossary/glossary_sure.md](glossary/glossary_sure.md) | スレ(スレ掛かり・スレる) | 下書き | 2026-09-14 |
+| [glossary/glossary_barbless.md](glossary/glossary_barbless.md) | カエシ・バーブレス | 下書き | 2026-09-14 |
+| [glossary/glossary_gandama.md](glossary/glossary_gandama.md) | ガン玉 | 下書き | 2026-09-14 |
+| [glossary/glossary_ukidome.md](glossary/glossary_ukidome.md) | ウキ止め | 下書き | 2026-09-14 |
+| [glossary/glossary_doutsuki.md](glossary/glossary_doutsuki.md) | 胴突き仕掛け | 下書き | 2026-09-14 |
+| [glossary/glossary_denkiuki.md](glossary/glossary_denkiuki.md) | 電気ウキ | 下書き | 2026-09-14 |
+| [glossary/glossary_shore.md](glossary/glossary_shore.md) | ショア・オフショア | 下書き | 2026-09-14 |
+| [glossary/glossary_shusseuo.md](glossary/glossary_shusseuo.md) | 出世魚 | 下書き | 2026-09-14 |
+| [glossary/glossary_ageshio.md](glossary/glossary_ageshio.md) | 上げ潮・下げ潮 | 下書き | 2026-09-14 |
+| [glossary/glossary_surf.md](glossary/glossary_surf.md) | サーフ | 下書き | 2026-09-14 |
+| [glossary/glossary_gorota.md](glossary/glossary_gorota.md) | ゴロタ(ゴロタ浜・ゴロタ場) | 下書き | 2026-09-14 |
+| [glossary/glossary_lunker.md](glossary/glossary_lunker.md) | ランカー | 下書き | 2026-09-14 |
 
-## 14. 運用メモ
+## 15. 運用メモ
 - 新規トピック追加時は該当カテゴリの表に行を追加し、ファイル作成後にステータス・更新日を更新する。
+- categoryとtechniqueは別物である。categoryはDAIWAの釣種分類に対応する「釣り方の種類」(例: アジング、サビキ釣り)を1種1記事でまとめ、対象魚・タックル傾向・基本手順を扱う。techniqueは複数のcategoryにまたがりうる個別の技術・コツ(例: ワンピッチジャーク、アワセ方)を扱う。旧`technique/`の内容は2026-08-28に`category/`へ移行した。
 - テンプレートは[_templates/](_templates/)配下を参照してコピーする。
 - locationは遊漁券・禁漁区など法令が絡むため、対象エリア選定を先に確定させてから着手する。
 - 「1テーマ = 1ファイルを基本とする」(CLAUDE.md)の例外として、密接に関連する複数語(例: スピニングリール・ベイトリール、ナイロン・フロロ・PEラインなど対比して覚える語群)は1ファイルにまとめてよい。ファイル名・見出しは代表語または「語A・語B」の形式で表し、INDEX.mdのトピック欄にも含まれる語をすべて記載する。
@@ -424,4 +488,5 @@ TSURI HUB「釣りwikiページ」向けリサーチメモの一覧・進捗管�
 - 出典の正確性検証には[wiki-factcheckスキル](.claude/skills/wiki-factcheck/SKILL.md)(`/wiki-factcheck <ファイルパス>`)を使う。記載済みの出典を実際に取得し、本文記述との整合性・一次情報性・リンク切れの有無を確認する。
 - glossary記事の関連用語見直しには[wiki-relatedtermsスキル](.claude/skills/wiki-relatedterms/SKILL.md)(`/wiki-relatedterms <ファイルパス>`)を使う。既存記事との相互リンクを補い、記事が存在しない用語はスタブ記事を新規作成する。
 - safety記事の執筆・リライトには[wiki-safetywriteスキル](.claude/skills/wiki-safetywrite/SKILL.md)(`/wiki-safetywrite <ファイルパス>`)を使う。報告書的な箇条書き羅列ではなく、読者に教える文章形式で書くsafetyカテゴリ特有のスタイル(詳細は[CLAUDE.md](CLAUDE.md)「safetyカテゴリの執筆スタイル」)を適用する。
+- manner記事の執筆・リライトには[wiki-mannerwriteスキル](.claude/skills/wiki-mannerwrite/SKILL.md)(`/wiki-mannerwrite <ファイルパス>`)を使う。safetyカテゴリと同様、読者に教える文章形式で書くmannerカテゴリ特有のスタイル(詳細は[CLAUDE.md](CLAUDE.md)「mannerカテゴリの執筆スタイル」)を適用する。
 - TSURI HUB本体への統合方式(`import_wiki`コマンドによるDBへの取り込み・本番運用の考え方)、および画像を扱う際の方針(gitには含めず別途一括インポートする設計)は[CLAUDE.md](CLAUDE.md)の「TSURI HUB本体への統合方針」「画像の扱い」を参照。
