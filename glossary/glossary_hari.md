@@ -17,6 +17,8 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_harisu.md](glossary_harisu.md)(ハリス)
 - [glossary_catchrelease.md](glossary_catchrelease.md)(キャッチアンドリリース)
+- [glossary_sure.md](glossary_sure.md)(スレ(スレ掛かり・スレる))
+- [glossary_barbless.md](glossary_barbless.md)(カエシ・バーブレス)
 
 ## 出典
 - [意外と知らない釣りの最重要ツール「形状・名称」に秘められた理由とは？｜BRAVO MOUNTAIN](https://bravo-m.futabanet.jp/articles/-/121244)(確認日: 2026-08-21)

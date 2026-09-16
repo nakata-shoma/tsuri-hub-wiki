@@ -17,6 +17,8 @@ last_updated: 2026-08-21
 ## 関連用語
 - [glossary_kata.md](glossary_kata.md)(型)
 - [glossary_shaku.md](glossary_shaku.md)(尺)
+- [glossary_surf.md](glossary_surf.md)(サーフ)
+- [glossary_lunker.md](glossary_lunker.md)(ランカー)
 
 ## 出典
 - [座布団サイズのヒラメって何センチ以上なの？｜河野剛志の釣り日誌](https://ameblo.jp/wakusakana/entry-12238598170.html)(確認日: 2026-08-21)

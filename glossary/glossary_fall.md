@@ -21,6 +21,7 @@ last_updated: 2026-08-21
 - [glossary_jig.md](glossary_jig.md)(ジグ)
 - [glossary_tadamaki.md](glossary_tadamaki.md)(ただ巻き)
 - [glossary_atari.md](glossary_atari.md)(アタリ)
+- [glossary_itofuke.md](glossary_itofuke.md)(糸フケ)
 
 ## 出典
 - [フォールの意味とは？釣り用語を解説します【釣り用語辞典】｜釣りラボマガジン](https://tsuri-labo.jp/word/25031)(確認日: 2026-08-21)

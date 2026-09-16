@@ -15,6 +15,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_fall.md](glossary_fall.md)(フォール)
+- [glossary_shore.md](glossary_shore.md)(ショア・オフショア)
 
 ## 出典
 - [ジグ (釣り) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%B0_(%E9%87%A3%E3%82%8A))(確認日: 2026-08-21)

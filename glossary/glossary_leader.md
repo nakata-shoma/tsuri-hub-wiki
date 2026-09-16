@@ -19,6 +19,7 @@ last_updated: 2026-08-20
 - [glossary_cast.md](glossary_cast.md)(キャスト)
 - [glossary_line_types.md](glossary_line_types.md)(PEライン)
 - [glossary_michiito.md](glossary_michiito.md)(道糸)
+- [glossary_nezure.md](glossary_nezure.md)(根ズレ)
 
 ## 出典
 - [リーダー（りーだー）｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=189)(確認日: 2026-08-20)

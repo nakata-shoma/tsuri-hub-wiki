@@ -17,6 +17,7 @@ last_updated: 2026-08-21
 - [glossary_awase.md](glossary_awase.md)(合わせ)
 - [glossary_tamoami.md](glossary_tamoami.md)(タモ網)
 - [glossary_worm.md](glossary_worm.md)(ワーム)
+- [glossary_mukouawase.md](glossary_mukouawase.md)(向こうアワセ)
 
 ## 出典
 - [釣り用語辞典 - 【ヒット】とは？(ひっと,ヒット)](https://www.fishing-labo.net/modules/xwords/word652_1.htm)(確認日: 2026-08-21)

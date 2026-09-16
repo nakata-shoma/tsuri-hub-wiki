@@ -23,6 +23,7 @@ TSURI HUBにも、[タイドグラフ](https://tsuri-hub.com/tide/)と[潮見表
 - [glossary_jiai.md](glossary_jiai.md)(時合)
 - [glossary_kancho.md](glossary_kancho.md)(干潮)
 - [glossary_mancho.md](glossary_mancho.md)(満潮)
+- [glossary_ageshio.md](glossary_ageshio.md)(上げ潮・下げ潮)
 
 ## 出典
 - [釣りの潮見表の見方と上手な使い方｜調整さん](https://chouseisan.com/l/post-31631/)(確認日: 2026-08-21)

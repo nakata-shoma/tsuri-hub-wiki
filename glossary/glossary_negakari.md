@@ -18,6 +18,11 @@ last_updated: 2026-08-20
 - [glossary_omori.md](glossary_omori.md)(オモリ)
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_tenbin.md](glossary_tenbin.md)(天秤)
+- [glossary_sokotori.md](glossary_sokotori.md)(底取り)
+- [glossary_nezure.md](glossary_nezure.md)(根ズレ)
+- [glossary_takagire.md](glossary_takagire.md)(高切れ)
+- [glossary_doutsuki.md](glossary_doutsuki.md)(胴突き仕掛け)
+- [glossary_gorota.md](glossary_gorota.md)(ゴロタ(ゴロタ浜・ゴロタ場))
 
 ## 出典
 - [釣り用語の「根がかり」とは？初心者泣かせの地球を釣るトラブルの正体｜レジャーフィッシングガイド](https://www.e-leisure.jp/basics/detail/1722/)(確認日: 2026-08-20)

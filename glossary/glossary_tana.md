@@ -19,6 +19,8 @@ last_updated: 2026-08-23
 - [glossary_uki.md](glossary_uki.md)(ウキ)
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_ukishita.md](glossary_ukishita.md)(ウキ下)
+- [glossary_sokotori.md](glossary_sokotori.md)(底取り)
+- [glossary_ukidome.md](glossary_ukidome.md)(ウキ止め)
 
 ## 出典
 - [タナ（たな）｜釣り用語辞典｜釣割](https://www.chowari.jp/sp/dictionary/detail.php?c=288)(確認日: 2026-08-20)

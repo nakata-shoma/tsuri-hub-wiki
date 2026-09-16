@@ -23,6 +23,8 @@ last_updated: 2026-08-25
 - [glossary_leader.md](glossary_leader.md)(リーダー)
 - [glossary_gousuu.md](glossary_gousuu.md)(号数)
 - [glossary_jighead.md](glossary_jighead.md)(ジグヘッド)
+- [glossary_nezure.md](glossary_nezure.md)(根ズレ)
+- [glossary_takagire.md](glossary_takagire.md)(高切れ)
 
 ## 出典
 - [ライン(釣り糸)とは？種類や選び方・結び方について解説｜SHIMANO シマノ](https://fish.shimano.com/ja-JP/content/beginners/fishingtackle/line/index.html)(確認日: 2026-08-21)

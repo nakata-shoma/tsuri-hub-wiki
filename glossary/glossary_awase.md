@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 
 ## 関連用語
 - [glossary_atari.md](glossary_atari.md)(アタリ)
+- [glossary_mukouawase.md](glossary_mukouawase.md)(向こうアワセ)
 
 ## 出典
 - [フッキング（あわせ）についての基礎知識まとめ｜釣りキャッチ](https://tsurikatsu.com/beginner/fooking/)(確認日: 2026-08-21)

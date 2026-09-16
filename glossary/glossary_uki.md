@@ -18,6 +18,9 @@ last_updated: 2026-08-21
 - [glossary_polarized.md](glossary_polarized.md)(偏光サングラス)
 - [glossary_shikake.md](glossary_shikake.md)(仕掛け)
 - [glossary_atari.md](glossary_atari.md)(アタリ)
+- [glossary_gandama.md](glossary_gandama.md)(ガン玉)
+- [glossary_ukidome.md](glossary_ukidome.md)(ウキ止め)
+- [glossary_denkiuki.md](glossary_denkiuki.md)(電気ウキ)
 
 ## 出典
 - [ウキ釣りとは？ 釣れる魚・必要な道具・釣り方のコツを解説【初心者向け】｜SHIMANO シマノ](https://fish.shimano.com/ja-JP/content/beginners/fishingstyle/baitfishing/uki/index.html)(確認日: 2026-08-21)

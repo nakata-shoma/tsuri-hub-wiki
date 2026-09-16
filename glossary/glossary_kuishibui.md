@@ -18,6 +18,7 @@ last_updated: 2026-08-25
 - [glossary_jiai.md](glossary_jiai.md)(時合)
 - [glossary_mikiri.md](glossary_mikiri.md)(見切り)
 - [glossary_sasoi.md](glossary_sasoi.md)(誘い)
+- [glossary_kassei.md](glossary_kassei.md)(活性)
 
 ## 出典
 - [食い渋りとは｜釣り用語辞典](https://www.fishing-labo.net/modules/xwords/word219_1.htm)(確認日: 2026-08-21)

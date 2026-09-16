@@ -19,6 +19,7 @@ last_updated: 2026-08-21
 - [glossary_nezakana.md](glossary_nezakana.md)(根魚)
 - [glossary_tetora.md](glossary_tetora.md)(テトラポッド)
 - [glossary_teibo.md](glossary_teibo.md)(堤防)
+- [glossary_gorota.md](glossary_gorota.md)(ゴロタ(ゴロタ浜・ゴロタ場))
 
 ## 出典
 - [ロックフィッシュとは？ 釣れる魚・必要な道具・釣り方のコツを解説【初心者向け】｜SHIMANO シマノ](https://fish.shimano.com/ja-JP/content/beginners/fishingstyle/lurefishing/rockfish/index.html)(確認日: 2026-08-21)

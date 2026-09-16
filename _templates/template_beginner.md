@@ -23,7 +23,7 @@ last_updated: YYYY-MM-DD
 -
 
 ## 関連ページ
-- 釣り方: (technique_*.mdへのリンク)
+- 釣種: (category_*.mdへのリンク)
 - 用語集: (glossary_*.mdへのリンク)
 
 ## 出典

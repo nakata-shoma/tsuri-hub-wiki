@@ -19,6 +19,7 @@ last_updated: 2026-08-24
 ## 関連用語
 - [glossary_structure.md](glossary_structure.md)(ストラクチャー)
 - [glossary_bottom.md](glossary_bottom.md)(ボトム)
+- [glossary_surf.md](glossary_surf.md)(サーフ)
 
 ## 出典
 - [釣り用語がわからない！ブレイクってなに？｜調整さん](https://chouseisan.com/l/post-16059/)(確認日: 2026-08-21)

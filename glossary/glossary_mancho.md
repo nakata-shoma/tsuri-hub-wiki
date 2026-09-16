@@ -16,6 +16,7 @@ last_updated: 2026-08-21
 - [glossary_kancho.md](glossary_kancho.md)(干潮)
 - [glossary_shiomawari.md](glossary_shiomawari.md)(潮回り)
 - [glossary_shiomihyou.md](glossary_shiomihyou.md)(潮見表)
+- [glossary_ageshio.md](glossary_ageshio.md)(上げ潮・下げ潮)
 
 ## 出典
 - [満潮とは？ 干潮との違いは？ 潮汐を利用してできることを解説｜HugKum](https://hugkum.sho.jp/248354)(確認日: 2026-08-21)
